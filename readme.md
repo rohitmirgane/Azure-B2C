@@ -1,0 +1,1 @@
+This is readme for Azure AD B2C HTML pages
